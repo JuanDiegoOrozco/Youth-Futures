@@ -8,7 +8,6 @@ Juan Orozco: 435-754-8289
 
 Test attempt edits
 
-<<<<<<< HEAD
 801-309-8023 THIS IS ROBB
 =======
 Sabree's phone number: 801.510.0638
@@ -17,4 +16,3 @@ Sabree's phone number: 801.510.0638
 Bradley's Numba - 385-205-9473
 =======
 Robb's phone number: 801-309-8023
->>>>>>> aa9c67aa2365c9825dedeaccf129d89cf93801da
