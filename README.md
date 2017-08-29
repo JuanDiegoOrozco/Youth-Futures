@@ -4,8 +4,14 @@ CS3750
 milestone #1	documentation of the project	sept 11
 milestone #2	will have the code sent to us
 
-I got a bald head!
+Juan Orozco: 435-754-8289
 
 Test attempt edits
 
+<<<<<<< HEAD
 801-309-8023 THIS IS ROBB
+=======
+Sabree's phone number: 801.510.0638
+
+Robb's phone number: 801-309-8023
+>>>>>>> aa9c67aa2365c9825dedeaccf129d89cf93801da
