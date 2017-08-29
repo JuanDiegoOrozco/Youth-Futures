@@ -8,5 +8,4 @@ Juan Orozco: 435-754-8289
 
 Test attempt edits
 
-
-Hey I am Sabree. 
+Sabree's phone number: 801.510.0638
